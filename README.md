@@ -1,1 +1,1 @@
-# CIND-820-Predicting-Diabetes-using-MAchine-Learning
+# CIND-820-Predicting-Diabetes-using-Machine-Learning
